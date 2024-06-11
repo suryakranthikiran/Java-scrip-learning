@@ -1,0 +1,18 @@
+/* //CSS for Counter project */
+
+.bg-container {
+  background-color: black;
+  border-radius: 20px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  width: 350px;
+  margin: 25px;
+}
+.outer-bg {
+  text-align: center;
+}
+.btn-cont {
+  margin: 15px;
+  padding: 20px;
+}
